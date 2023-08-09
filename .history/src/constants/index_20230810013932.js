@@ -205,21 +205,21 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'AT&T',
-    description: 'AT&T is leading the charge with our nationwide fast, reliable and secure 5G coupled with our growing, multi-gig fiber internet service.',
+    name: 'DefiPrime',
+    description: 'DeFiprime.com is the digital media and analytical services provider for the DeFi community. Its mandate is to inform, educate, and connect the community as the definitive source of news dedicated to the decentralized finance space.',
     tags: [
       {
-        name: 'Next.js',
+        name: 'DeFi',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Express.js',
+        name: 'Ethereum',
         color: 'green-text-gradient',
       }
     ],
     image: komikult,
-    repo: 'https://github.com/att/rcloud',
-    demo: 'https://www.att.com/',
+    repo: 'https://github.com/defiprime/defiprime',
+    demo: 'https://defiprime.com/',
   },
   {
     id: 'project-2',
@@ -228,8 +228,12 @@ const projects = [
       'TicketSwap is a safe, convenient and fair place to buy and sell e-tickets for concerts, festivals, sports events, theatre and days out. Fraud is prevented by strict checks and collaborations with organisations and partners.',
     tags: [
       {
-        name: 'NextJS',
+        name: 'Ethereum',
         color: 'blue-text-gradient',
+      },
+      {
+        name: 'Stacking',
+        color: 'green-text-gradient',
       },
     ],
     image: leaderboard,
@@ -238,41 +242,45 @@ const projects = [
   },
   {
     id: 'project-3',
-    name: 'RGC',
-    description: 'Robert Geans Corporation has been family owned and operated since 1959. You don’t last this long without doing something right, and we’ve mastered what sets us apart. ',
+    name: 'NFT Suits',
+    description: 'This is a Nft game',
     tags: [
       {
-        name: 'Next.js',
+        name: 'Ethereum',
         color: 'blue-text-gradient',
       },
       {
-        name: 'React.js',
+        name: 'NFT',
         color: 'green-text-gradient',
       },
     ],
     image: math,
-    repo: 'https://github.com/robertgeans/rgc',
-    demo: 'https://www.robertgeanscorp.com/',
+    repo: 'https://github.com/NFTSuits/NFT-Marketplace-DApp',
+    demo: 'http://ww25.nftsuits.com/',
   },
   {
     id: 'project-4',
-    name: 'Healthcare',
-    description: `The Swedish health system performs well in general, life expectancy in the country is high and the general health among the population is good.`,
+    name: 'BitFact',
+    description: `Prove data with this complete toolkit. BitFact fingerprints information and then etches it on the Ethereum Blockchain.`,
     tags: [
       {
-        name: 'Next.js',
+        name: 'ethereum',
         color: 'blue-text-gradient',
+      },
+      {
+        name: 'blockchain',
+        color: 'green-text-gradient',
       },
     ],
     image: movie,
-    repo: 'https://github.com/aidotse/decaihealth',
-    demo: 'https://sweden.se/life/society/healthcare-in-sweden',
+    repo: 'https://github.com/zachalam/BitFact',
+    demo: 'https://docs.bitfact.io/#/',
   },
   {
     id: 'project-5',
-    name: 'THETA',
+    name: 'Recurring Payments',
     description:
-      'Web3 Blockchain Infrastructure for Video, Media & Entertainment',
+      'Recurring payments on the blockchain have been a topic of discussion for some time. First introduced in EIP-1337 in 2018, the proposal never really caught on. My approach to recurring payments on Ethereum takes a simpler approach than EIP-1337 did, which may help it have a larger impact on the community.',
     tags: [
       {
         name: 'ethereum',
@@ -284,8 +292,8 @@ const projects = [
       },
     ],
     image: nyeusi,
-    repo: 'https://github.com/thetatoken/tdrop-marketplace',
-    demo: 'https://www.thetadrop.com/drops',
+    repo: 'https://github.com/Jon-Becker/ethereum-recurring-payments',
+    demo: 'https://jbecker.dev/research/ethereum-recurring-payments/',
   },
 ];
 

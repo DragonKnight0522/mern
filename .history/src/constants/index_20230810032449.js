@@ -270,7 +270,7 @@ const projects = [
   },
   {
     id: 'project-5',
-    name: 'THETA',
+    name: 'Recurring Payments',
     description:
       'Web3 Blockchain Infrastructure for Video, Media & Entertainment',
     tags: [

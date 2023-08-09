@@ -251,28 +251,32 @@ const projects = [
       },
     ],
     image: math,
-    repo: 'https://github.com/robertgeans/rgc',
+    repo: 'https://github.com/robertgeans/rgc.git',
     demo: 'https://www.robertgeanscorp.com/',
   },
   {
     id: 'project-4',
-    name: 'Healthcare',
-    description: `The Swedish health system performs well in general, life expectancy in the country is high and the general health among the population is good.`,
+    name: 'BitFact',
+    description: `Prove data with this complete toolkit. BitFact fingerprints information and then etches it on the Ethereum Blockchain.`,
     tags: [
       {
-        name: 'Next.js',
+        name: 'ethereum',
         color: 'blue-text-gradient',
+      },
+      {
+        name: 'blockchain',
+        color: 'green-text-gradient',
       },
     ],
     image: movie,
-    repo: 'https://github.com/aidotse/decaihealth',
-    demo: 'https://sweden.se/life/society/healthcare-in-sweden',
+    repo: 'https://github.com/zachalam/BitFact',
+    demo: 'https://docs.bitfact.io/#/',
   },
   {
     id: 'project-5',
-    name: 'THETA',
+    name: 'Recurring Payments',
     description:
-      'Web3 Blockchain Infrastructure for Video, Media & Entertainment',
+      'Recurring payments on the blockchain have been a topic of discussion for some time. First introduced in EIP-1337 in 2018, the proposal never really caught on. My approach to recurring payments on Ethereum takes a simpler approach than EIP-1337 did, which may help it have a larger impact on the community.',
     tags: [
       {
         name: 'ethereum',
@@ -284,8 +288,8 @@ const projects = [
       },
     ],
     image: nyeusi,
-    repo: 'https://github.com/thetatoken/tdrop-marketplace',
-    demo: 'https://www.thetadrop.com/drops',
+    repo: 'https://github.com/Jon-Becker/ethereum-recurring-payments',
+    demo: 'https://jbecker.dev/research/ethereum-recurring-payments/',
   },
 ];
 

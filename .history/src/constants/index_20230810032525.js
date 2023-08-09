@@ -285,7 +285,7 @@ const projects = [
     ],
     image: nyeusi,
     repo: 'https://github.com/thetatoken/tdrop-marketplace',
-    demo: 'https://www.thetadrop.com/drops',
+    demo: 'https://www.thetatoken.org/',
   },
 ];
 

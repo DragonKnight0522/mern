@@ -263,6 +263,10 @@ const projects = [
         name: 'Next.js',
         color: 'blue-text-gradient',
       },
+      {
+        name: 'blockchain',
+        color: 'green-text-gradient',
+      },
     ],
     image: movie,
     repo: 'https://github.com/aidotse/decaihealth',
@@ -270,9 +274,9 @@ const projects = [
   },
   {
     id: 'project-5',
-    name: 'THETA',
+    name: 'Recurring Payments',
     description:
-      'Web3 Blockchain Infrastructure for Video, Media & Entertainment',
+      'Recurring payments on the blockchain have been a topic of discussion for some time. First introduced in EIP-1337 in 2018, the proposal never really caught on. My approach to recurring payments on Ethereum takes a simpler approach than EIP-1337 did, which may help it have a larger impact on the community.',
     tags: [
       {
         name: 'ethereum',
@@ -284,8 +288,8 @@ const projects = [
       },
     ],
     image: nyeusi,
-    repo: 'https://github.com/thetatoken/tdrop-marketplace',
-    demo: 'https://www.thetadrop.com/drops',
+    repo: 'https://github.com/Jon-Becker/ethereum-recurring-payments',
+    demo: 'https://jbecker.dev/research/ethereum-recurring-payments/',
   },
 ];
 
