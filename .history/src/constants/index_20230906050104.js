@@ -166,36 +166,36 @@ const technologies = [
 
 const experiences = [
 	{
-		title: "Senior Full-Stack Developer",
+		title: "Full-Stack Developer",
 		company_name: "Collabera",
 		icon: coverhunt,
 		iconBg: "#333333",
 		date: "09 / 21 - 07 / 2023",
 	},
 	{
-		title: "Full-Stack Developer",
+		title: "Back-End Developer",
 		company_name: "BeeTech",
 		icon: microverse,
 		iconBg: "#333333",
 		date: "08 / 2019 - 08 / 2021",
 	},
 	{
-		title: "Backend Developer",
-		company_name: "Bloxico",
+		title: "Front End Developer",
+		company_name: "Bloxico ",
 		icon: kelhel,
 		iconBg: "#333333",
 		date: "07 / 2017 - 09 / 2018",
 	},
 	{
-		title: "Frontend Developer",
-		company_name: "DunavNET",
+		title: "Java Developer",
+		company_name: "Germany Trade & Invest",
 		icon: dcc,
 		iconBg: "#333333",
 		date: "07 / 2015 - 06 / 2017",
 	},
 	{
 		title: "Software Test Engineer (Internship)",
-		company_name: "DunavNET",
+		company_name: "Germany Trade & Invest",
 		icon: dcc,
 		iconBg: "#333333",
 		date: "07 / 2014 - 06 / 2015",

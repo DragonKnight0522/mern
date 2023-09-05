@@ -166,7 +166,7 @@ const technologies = [
 
 const experiences = [
 	{
-		title: "Senior Full-Stack Developer",
+		title: "Full-Stack Developer",
 		company_name: "Collabera",
 		icon: coverhunt,
 		iconBg: "#333333",
